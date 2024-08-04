@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <a target="_blank" href="https://www.codewars.com/users/Declivend"><img src="https://www.codewars.com/users/Declivend/badges/large" alt="codewars badge" /></a>
-</p>
-
 <h2 align="center">Languages</h2>
 
 <p align="center">
